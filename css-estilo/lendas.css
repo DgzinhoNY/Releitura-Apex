@@ -1,0 +1,58 @@
+.box-legends{
+    position: relative;
+    margin-top: 25px;
+    border-radius: 10px;
+    color: white;
+    width: 300px;
+    height:300px;
+    text-align: center;
+    align-items: center;
+    padding: 8px;
+}
+
+.box-legends img{
+    width: 200px;
+    height: 200px;
+}
+
+.caixas-personagens{
+width: 100%;
+position: relative;
+}
+
+.filter-content{
+    display: flex;
+    position:relative;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+    max-height: auto;
+}
+
+.head-container{
+    color:white;
+}
+.data-filter{
+    color: rgb(255, 255, 255);
+    background-color: red;
+    height: 100px;
+    margin-top: 10px;
+    text-align: center;
+    padding: 8px;
+}
+
+.footer-section{
+    position:fixed;
+}
+
+.nav-bar{
+    position: fixed;
+}
+
+.artigo-cards {
+    margin-top: 60px;
+    float: center;
+    padding: 20px;
+    width: 100%;
+    color: #f3f3f3;
+  }

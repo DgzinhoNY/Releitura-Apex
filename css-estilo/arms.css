@@ -1,0 +1,57 @@
+.arms-body{
+  background-color: rgb(255, 255, 255);
+}
+
+
+.armas-cards {
+    margin-top: 60px;
+    float: center;
+    padding: 20px;
+    width: 100%;
+    color: #f3f3f3;
+    background-color: rgb(255, 255, 255);
+  }
+
+  .armas-cards h1{
+    font-size: 35px;
+    margin-bottom: 40px;
+    color: black;
+  }
+
+  .box-arms{
+    color: black;
+    text-align: center;
+    align-content: center;
+    padding: 10px;
+  }
+
+  .box-arms img{
+    width: 600px;
+    height: 300px;
+    border-radius: 30%;
+  }
+
+  table{
+   margin-left: auto;
+   margin-right: auto;
+  }
+
+  table td{
+    padding: 5px;
+    margin: 2px;
+  }
+
+  .box-arms h5{
+    font-size: 45px;
+  }
+
+  .ce{
+    background-color:#606060;
+    color: #f3f3f3;
+    font:bolder 2px;
+  }
+
+  .cd{
+    background-color: rgb(2, 27, 27);
+    color: #f3f3f3;
+  }
